@@ -1,5 +1,30 @@
 <div align="center">
-    <img id="example-view" src="https://spotify-github-profile.vercel.app/api/view?uid=31yod2ilxfsykycpghzmoojf2xk4&amp;cover_image=false&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=false">
+        const token = 'BQBCnmwplCcgwzj4D5h1nkl8j06mTafnHgm5-Mrv7R4Kzpk0i-                        P0eSkYSI8LBgpea5kfbgXIKulG5olFsoIk6qvlyM7KGrdqscq5kW0KfaHMjnz835Th7Ntxqoxsc2Z9twvyNDm9ye7jy7c7QDFgUlwoEPe8kc0oqyUZ4Biy1hfDa4KRt34yVur3rFsHJDTqY1OdNCLmfYMhSoUlRCC9rlpSwF_w80JVUyaXP9eKbjlyZMn1yv_yTFizhl15dSqRfB8RCBsFSOAoHwPpxPtBWuWV';
+    async function fetchWebApi(endpoint, method, body) {
+      const res = await fetch(`https://api.spotify.com/${endpoint}`, {
+        headers: {
+          Authorization: `Bearer ${token}`,
+        },
+        method,
+        body:JSON.stringify(body)
+      });
+      return await res.json();
+    }
+    
+    async function getTopTracks(){
+      // Endpoint reference : https://developer.spotify.com/documentation/web-api/reference/get-users-top-artists-and-tracks
+      return (await fetchWebApi(
+        'v1/me/top/tracks?time_range=long_term&limit=5', 'GET'
+      )).items;
+    }
+    
+    const topTracks = await getTopTracks();
+    console.log(
+      topTracks?.map(
+        ({name, artists}) =>
+          `${name} by ${artists.map(artist => artist.name).join(', ')}`
+      )
+    );
 </div>
 
 <div align="center">
