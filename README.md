@@ -6,7 +6,7 @@
 <h3>Languages and Tools</h3>
   <img src="https://skillicons.dev/icons?i=c,cpp,py,bootstrap,firebase,mysql,css,html,figma,arduino,git,vscode,markdown,github,npm"/>
 <h3>Currently learning</h3>
-  <img src="https://skillicons.dev/icons?i=java,js,nodejs,linux,npm,ubuntu"/>
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,linux,npm,ubuntu,powershell"/>
 
 
 ##  GitHub Stats:
