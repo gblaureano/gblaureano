@@ -3,9 +3,11 @@
 
 ##  Tech Stack:
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py,bootstrap,nodejs,firebase,mysql,css,html,mongodb,figma,arduino,git,vscode,markdown,github,linux,npm,ubuntu"/>
-</p>
+<h3>Languages and Tools</h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,bootstrap,firebase,mysql,css,html,figma,arduino,git,vscode,markdown,github,npm"/>
+<h3>Currently learning</h3>
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,linux,npm,ubuntu"/>
+
 
 ##  GitHub Stats:
 <div align='center'>
