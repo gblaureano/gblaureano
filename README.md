@@ -3,9 +3,9 @@
 
 ##  Tech Stack:
 <h3>Languages and Tools</h3>
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,bootstrap,firebase,mysql,css,html,figma,arduino,git,vscode,markdown,github"/>
+  <img src="https://skillicons.dev/icons?i=c,java, cpp,py,bootstrap,firebase,mysql,css,html,figma,arduino,git,vscode,markdown,github"/>
 <h3>Currently learning</h3>
-  <img src="https://skillicons.dev/icons?i=java,js,nodejs,linux,npm,ubuntu,powershell"/>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,linux,npm,ubuntu,powershell"/>
 
 
 ##  GitHub Stats:
