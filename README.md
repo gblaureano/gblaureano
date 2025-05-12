@@ -7,19 +7,6 @@
 <h3>Currently learning</h3>
   <img src="https://skillicons.dev/icons?i=js,nodejs,linux,npm,ubuntu,powershell"/>
 
-
-##  GitHub Stats:
-<div align='center'>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=babislz&theme=radical&hide_border=false"/>
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=babislz&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babislz&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</div>
-
 [![](https://visitcount.itsvg.in/api?id=babislz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
