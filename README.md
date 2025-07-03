@@ -59,10 +59,13 @@ Feel free to explore my projects and contributions here!
         <h3>🎮 PacmanGame</h3>
       </td>
       <td align="center" width="280">
+        <h3>🦕 DinoGame</h3>
+      </td>
+      <td align="center" width="280">
         <h3>📅 ETScheduleFlask</h3>
       </td>
       <td align="center" width="280">
-        <h3>☕ TheStationCoffee</h3>
+        <h3>🍔 FoodSpace</h3>
       </td>
     </tr>
     <tr>
@@ -70,10 +73,13 @@ Feel free to explore my projects and contributions here!
         <p>PacMan, a classic game developed with JavaScript</p>
       </td>
       <td align="center" width="280">
+        <p>A classic offline Dino game remake, fully coded in C</p>
+      </td>
+      <td align="center" width="280">
         <p>An application designed to schedule classes and activities for the Engineering Technical School at Bosch</p>
       </td>
       <td align="center" width="280">
-        <p>Backend for a coffee shop system</p>
+        <p>A food delivery site inspired by iFood</p>
       </td>
     </tr>
     <tr>
@@ -85,14 +91,20 @@ Feel free to explore my projects and contributions here!
       </td>
       <td align="center" width="280">
         <br>
+        <a href="https://github.com/mBelisarius/dino">
+          <img src="https://img.shields.io/badge/View_Project-7A0BD0?style=for-the-badge&logo=github&logoColor=white" alt="DinoGame"/>
+        </a>
+      </td>
+      <td align="center" width="280">
+        <br>
         <a href="https://github.com/AndreLuisPLuz/ETScheduleFlask">
           <img src="https://img.shields.io/badge/View_Project-7A0BD0?style=for-the-badge&logo=github&logoColor=white" alt="ETScheduleFlask"/>
         </a>
       </td>
       <td align="center" width="280">
         <br>
-        <a href="https://github.com/gblaureano/TheStationCoffeeBackend">
-          <img src="https://img.shields.io/badge/View_Project-7A0BD0?style=for-the-badge&logo=github&logoColor=white" alt="TheStationCoffee"/>
+        <a href="https://github.com/gblaureano/FoodSpace.git">
+          <img src="https://img.shields.io/badge/View_Project-7A0BD0?style=for-the-badge&logo=github&logoColor=white" alt="FoodSpace"/>
         </a>
       </td>
     </tr>
