@@ -18,12 +18,10 @@ Feel free to explore my projects and contributions here!
    <img src="https://img.shields.io/badge/CSS-E34F26?style=for-the-badge&logo=CSS&logoColor=white" />
    <img src="https://img.shields.io/badge/EJS-323330?style=for-the-badge&logo=EJS&logoColor=F7DF1E" />
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-   <img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=TypeScript&logoColor=F7DF1E" />
 </p>
 
 ### Frameworks and Tools
 <p align="left">
-   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
    <img src="https://img.shields.io/badge/bootstrap-6DA55F?style=for-the-badge&logo=bootstrap&logoColor=white" />
    <img src="https://img.shields.io/badge/figma-6DA55F?style=for-the-badge&logo=figma&logoColor=white" />
@@ -48,7 +46,7 @@ Feel free to explore my projects and contributions here!
 
 ### Programming Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,cpp,py"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,c#"/>
 </p>
 
 ## My Projects
