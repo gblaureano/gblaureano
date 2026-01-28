@@ -46,7 +46,7 @@ Feel free to explore my projects and contributions here!
 
 ### Programming Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py"/>
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,py"/>
 </p>
 
 ## My Projects
